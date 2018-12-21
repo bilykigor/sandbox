@@ -3,11 +3,27 @@
         "symbol": "VXG9",
         "name":"second",
         "optionsExp":"20190521",
+        "OVERRIDE_FORWARD_DATE":1,
+        "USE_OVERRIDE_VVIX":1,
+        "VVIX_OVERNIGHT_HARD_CODE":87,
+        "HARD_CODE_CUM_PROB":0.98,
+        "OBSERVED_CUM_PROB_RECENT":0.976,
+        "PUT_GAP_ALLOW":5,
+        "CALL_GAP_ALLOW":5,
+        "INT_RATE":0.025
     },
     {
         "symbol": "VXF9",
         "name":"front",
-        "optionsExp":"20190115"
+        "optionsExp":"20190115",
+        "OVERRIDE_FORWARD_DATE":1,
+        "USE_OVERRIDE_VVIX":1,
+        "VVIX_OVERNIGHT_HARD_CODE":72,
+        "HARD_CODE_CUM_PROB":0.85,
+        "OBSERVED_CUM_PROB_RECENT":0.8617,
+        "PUT_GAP_ALLOW":5,
+        "CALL_GAP_ALLOW":5,
+        "INT_RATE":0.025
     }
     ,
     {
